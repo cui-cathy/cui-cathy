@@ -1,4 +1,12 @@
-### Hi there 👋
+### hi there! 🐻‍❄️
+
+i'm a cs student at waterloo and always looking for cool new things to learn :)
+
+- 💻  i'm an incoming fall 2021 swe intern @ coinbase 🪙
+
+- 🌱  i'm currently improving my chinese reading/writing skills and relearning how to draw
+- ❄️  cute polar bear drawings are my weakness
+
 
 <!--
 **cui-cathy/cui-cathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
